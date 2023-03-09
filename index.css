@@ -1,0 +1,19 @@
+
+button.houses {
+    background-color: #4a3f3e;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  /* New CSS rule for spacing */
+  button.houses {
+    margin-right: 10px;
+  }
+  

@@ -44,7 +44,7 @@ function addComment(detailsDiv) {
   const form = document.createElement('form');
   const inputComment = document.createElement('input');
   inputComment.setAttribute('type', 'text');
-  inputComment.setAttribute('placeholder', 'Leave a comment');
+  inputComment.setAttribute('placeholder', 'Make a Note...');
   form.appendChild(inputComment);
   const btnSubmit = document.createElement('button');
   btnSubmit.setAttribute('type', 'submit');
